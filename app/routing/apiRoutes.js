@@ -1,8 +1,6 @@
 // modified and recycled code from class activities
 // ===============================================================================
 // LOAD DATA
-// We are linking our routes to a series of "data" sources.
-// These data sources hold arrays of information on friends-data, waitinglist, etc.
 // ===============================================================================
 
 var friendsData = require("../data/friends.js");
@@ -61,6 +59,7 @@ module.exports = function(app) {
   });
 };
 
+// ALMOST WORKING BUT NOT QUITE had this before TA help
 //     console.log(req.body);
 //     {
 //       friendsData.push(req.body);
