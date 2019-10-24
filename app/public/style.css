@@ -1,3 +1,40 @@
 body {
+  background-image: url("./images/epmmES7.gif");
+  background-size: initial;
   background-color: aquamarine;
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  opacity: 0.8;
+}
+
+* {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 1em;
+
+  font-weight: bolder;
+}
+
+.chosen-select {
+  width: 150px !important;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: inherit;
+  font-weight: 800;
+  line-height: 1.1;
+  color: inherit;
 }

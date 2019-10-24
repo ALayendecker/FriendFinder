@@ -1,4 +1,4 @@
-//modified and recycled from class activities
+//modified and leveraged from class activities
 // ===============================================================================
 // DEPENDENCIES
 // ===============================================================================

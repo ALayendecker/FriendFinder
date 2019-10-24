@@ -1,4 +1,4 @@
-//modified and recycled from class activities
+//modified and leveraged from class activities
 // ==============================================================================
 // DEPENDENCIES
 // ==============================================================================
@@ -29,5 +29,6 @@ require("./app/routing/htmlRoutes")(app);
 // =============================================================================
 
 app.listen(PORT, function() {
-  console.log("App listening on PORT: " + PORT);
+  // Log (server-side) when our server has started
+  console.log("Server listening on: http://localhost:" + PORT);
 });

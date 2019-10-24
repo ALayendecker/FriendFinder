@@ -1,4 +1,4 @@
-// modified and recycled code from class activities
+// modified and leveraged code from class activities
 // ===============================================================================
 // LOAD DATA
 // ===============================================================================
@@ -31,7 +31,7 @@ module.exports = function(app) {
     var userScores = userData.scores;
 
     var totalDifference;
-
+    //thanks for the help on the logic for this one TA's I have the es6 I was trying to do commented out below
     for (var i = 0; i < friendsData.length; i++) {
       var currentFriend = friendsData[i];
       totalDifference = 0;
