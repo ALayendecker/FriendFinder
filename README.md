@@ -58,6 +58,12 @@ Project Link: [https://github.com/Alayendecker/FriendFinder](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+<!-- Ack -->
+
+## Acknowledgements
+
+Thanks TA's and study group!
+
 [contributors-shield]: https://img.shields.io/github/contributors/Alayendecker/FriendFinder.svg?style=flat-square
 [contributors-url]: https://github.com/Alayendecker/FriendFinder/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Alayendecker/FriendFinder.svg?style=flat-square
